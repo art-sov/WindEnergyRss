@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WindEnergyRSS</string>
+    <string name="filter">Filter</string>
+    
+    <string name="no_news">There are no news on this date</string>
+    <string name="datePicker">datePicker</string>
+</resources>
